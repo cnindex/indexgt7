@@ -1,8 +1,8 @@
 {
-    "title": "创约·魔法禁书目录6",
+    "title": "创约·魔法禁书目录7",
     "author": "cnindex",
 	"language": "zh-Hans",
-    "description": "创约·魔法禁书目录6 汉化",
+    "description": "创约·魔法禁书目录7 汉化",
     "plugins": [
 		"ancre-navigation",
         "chapter-fold",         
@@ -25,12 +25,12 @@
 
 	"pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy cnindex 2022",
+            "copyright":"Copyright &copy cnindex 2023",
             "modify_label": "该文章修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
 		"github": {
-            "url": "https://github.com/cnindex/indexgt6"
+            "url": "https://github.com/cnindex/indexgt7"
         },
         "prism": {
             "css": [
